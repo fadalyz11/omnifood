@@ -15,7 +15,7 @@ const imagemin  = require('gulp-imagemin');
 
 const dist_PATH = "public/dist";
 // const scripts_PATH = "public/scripts/**/*.js";
-const css_PATH = "public/resources/css/**/*.css"
+const css_PATH = "public/resources/css/style.css"
 const images_PATH = 'public/resources/img/**/*.{png,jpeg,jpg,svg,gif}'
 const IMAGES_PATH = 'public/resources/css/img/**/*.{png,jpeg,jpg,svg,gif}'
 
